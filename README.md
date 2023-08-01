@@ -1,2 +1,5 @@
 # hello-world
-This is assignment 1 of WPR281
+This is assignment 1 for WPR281.
+
+# About me
+My name in Neill Engelbrecht.
